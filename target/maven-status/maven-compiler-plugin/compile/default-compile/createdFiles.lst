@@ -1,8 +1,0 @@
-com/example/IPL_Dashboard/Repo/MatchRepo.class
-com/example/IPL_Dashboard/IplDashboardApplication.class
-com/example/IPL_Dashboard/pojo/Match.class
-com/example/IPL_Dashboard/pojo/Team.class
-com/example/IPL_Dashboard/controller/DashboardController.class
-com/example/IPL_Dashboard/Repo/TeamRepo.class
-com/example/IPL_Dashboard/Util/readCSV.class
-com/example/IPL_Dashboard/controller/ReadCSVController.class
